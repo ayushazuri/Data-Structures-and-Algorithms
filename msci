@@ -1,0 +1,15 @@
+
+Book - Title, Price, Date issued, Book_id, Book_Summary, Author_id 
+Author - Author_name, Author_id, Date_of_publicition, Author_details
+Slips - CustomerName, DateOfIssuing, DateExpiring, slip_id, Duration 
+Customer - customer_name, customer_id, PhoneNumber, Address, Date_of_Issuing
+Membership - Tenure, membership_id, MembershipDetails, Price
+Reck - rech_id, Shelf_no, shelfcolumn_no
+User - userid, username, password
+
+Book has a author
+Book has a slip
+
+Stack<Pair<Sring, String>> stack = new Stack<>();
+
+class Pair<String, List<String>>
