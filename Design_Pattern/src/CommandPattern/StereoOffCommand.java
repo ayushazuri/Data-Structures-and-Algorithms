@@ -1,4 +1,4 @@
-package commandPattern;
+package CommandPattern;
 
 public class StereoOffCommand implements Command {
     Stereo stereo;

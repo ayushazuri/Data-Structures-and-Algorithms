@@ -1,4 +1,4 @@
-package commandPattern;
+package CommandPattern;
 
 public class GarageDoorOnCommand implements Command{
     GarageDoor garageDoor;

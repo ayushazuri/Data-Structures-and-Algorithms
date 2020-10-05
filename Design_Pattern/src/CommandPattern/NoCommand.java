@@ -1,4 +1,4 @@
-package commandPattern;
+package CommandPattern;
 
 public class NoCommand implements Command{
 
