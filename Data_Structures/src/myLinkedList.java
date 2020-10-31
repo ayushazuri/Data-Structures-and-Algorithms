@@ -8,21 +8,21 @@ public class myLinkedList {
             this.next = null;
         }
     }
-    class stack{
-        Node top;
-        public void push(int data){
-            Node newNode = new Node(data);
-            if(top == null){
-                top = newNode;
-                return;
-            }
-            else{
-                
-            }
-
-
-        }
-    }
+//    class stack{
+//        Node top;
+//        public void push(int data){
+//            Node newNode = new Node(data);
+//            if(top == null){
+//                top = newNode;
+//                return;
+//            }
+//            else{
+//
+//            }
+//
+//
+//        }
+//    }
     Node head;
     public void add(int data){
         Node newNode = new Node(data);

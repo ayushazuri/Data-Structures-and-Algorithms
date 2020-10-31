@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ayush_Java.iml" filepath="$PROJECT_DIR$/Ayush_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_Structures/Data_Structures.iml" filepath="$PROJECT_DIR$/Data_Structures/Data_Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_Pattern/Design_Pattern.iml" filepath="$PROJECT_DIR$/Design_Pattern/Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Dynamic_Programming/Dynamic_Programming.iml" filepath="$PROJECT_DIR$/Algorithms/Dynamic_Programming/Dynamic_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_Swing/GUI_Swing.iml" filepath="$PROJECT_DIR$/GUI_Swing/GUI_Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Normal_Programming/Normal_Programming.iml" filepath="$PROJECT_DIR$/Normal_Programming/Normal_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/SlindingWindow.iml" filepath="$PROJECT_DIR$/Algorithms/SlindingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Struc.iml" filepath="$PROJECT_DIR$/DesignPattern/Struc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/StructuralPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/StructuralPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/StructurePattern.iml" filepath="$PROJECT_DIR$/DesignPattern/StructurePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/myCollections/myCollections.iml" />
+    </modules>
+  </component>
+</project>

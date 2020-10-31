@@ -27,7 +27,7 @@ class myQueue {
 
     static int dequeue(){
         if(head == null)
-            return 0;
+            return -1;
 
         int x = head.data;
         head=head.next;

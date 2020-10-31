@@ -1,4 +1,6 @@
 
+import org.w3c.dom.css.CSSStyleDeclaration;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

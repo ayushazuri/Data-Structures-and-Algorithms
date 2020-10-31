@@ -12,7 +12,7 @@ public class MaximumElementHackerrank{
         int n=sc.nextInt();
         long maxno;
         maxstack.push(Long.MIN_VALUE);
-        while(n > 0)
+        while(n-- > 0)
         {
             switch(sc.nextInt())
             {
@@ -34,7 +34,7 @@ public class MaximumElementHackerrank{
 
                 default: break;
             }
-            n--;
+
         }
 
     }
