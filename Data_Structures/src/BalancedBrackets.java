@@ -30,9 +30,9 @@ public class BalancedBrackets {
 
 
             }
-            
+
         }
-        if(stack.isEmpty() == true)
+        if(stack.isEmpty())
             System.out.println("Balanced");
         else
             System.out.println("Not Balanced");

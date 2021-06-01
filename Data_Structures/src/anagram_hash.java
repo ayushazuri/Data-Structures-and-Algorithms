@@ -21,7 +21,7 @@ public class anagram_hash {
         }
         System.out.println(map.entrySet());
         for(String st: s2){
-            char c[] = st.toCharArray();
+            char[] c = st.toCharArray();
             Arrays.sort(c);
             String sorted = new String(c);
 
